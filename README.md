@@ -10,8 +10,3 @@ A simple and secure web application for uploading, sharing, and downloading file
 - Download files via unique links
 
 
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/file-sharing-app.git
